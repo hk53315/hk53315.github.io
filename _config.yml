@@ -11,7 +11,7 @@ github_repo: "https://github.com/hk53315/hk53315.github.io" # you code repositor
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Don't let your dreams be dreams, Just do it!"
+sidebar-about-description: "Just do it!"
 sidebar-avatar: /img/just_do_it.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
